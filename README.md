@@ -1,4 +1,66 @@
-# 🐍 Python Practice
+# 📚 Day 6 – Python Practice: Loops, Functions, and User Input
+
+This day focused on learning and practicing **functions**, **loop control statements**, and writing clean interactive code using conditionals and input/output.
+
+---
+
+## ✅ Topics Covered
+
+- `break` and `continue` statements
+- `pass` statement
+- User-defined functions
+- Function parameters and return values
+- Using `import` (like `import random`)
+- Basic calculator using functions
+- Clean input handling using `.strip()` and `.lower()`
+- Understanding scope of variables (`local` vs `global`)
+- Printing emojis in Python (`\U0001F600` or using `emoji` module)
+
+---
+
+## 🧪 Programs Practiced
+
+1. **Basic function definition and calling**
+2. **Function with parameters**
+3. **Function with return values**
+4. **Using control statements like `break`, `continue`, `pass` inside loops**
+5. **Random password/number generation using `import random`**
+6. **Function scope: local vs global**
+7. **Simple calculator where user selects operation (add, subtract, etc.)**
+
+---
+
+## 🧠 Key Learnings
+
+- Functions help you write reusable and organized code.
+- `strip()` removes unwanted spaces; `lower()` helps standardize input.
+- Loops can be controlled using `break` and `continue` for clean logic.
+- Always indent correctly to avoid errors, especially inside functions.
+
+---
+
+## 📂 Files
+
+- `functions_intro.py` – basic function examples
+- `calculator.py` – user-chosen operation using functions
+- `loop_control.py` – using break, continue, pass
+- `function_scope.py` – demo of local vs global variable
+- `random_examples.py` – using `import random`
+
+---
+
+## 📅 Date
+
+**Day 6 Completed on:** July 29, 2025
+
+---
+
+## 👨‍💻 Author
+
+**Devashish Pandey**  
+_BCA | AI Engineer in Progress_
+
+---# 🐍 Python Practice
 
 Welcome to my Python practice repository!  
 I'm a BCA student at ITS CPS Greater Noida, on a 2-year mission to master Python and build a career in AI/ML.
