@@ -5,5 +5,5 @@ try:
     if age < 0:
         raise InvalidageError("age cannot be negative")
     print("your age is :",age)
-except InvalidageError :
-    print("ERROR")
+except InvalidageError as e:
+    print("ERROR",e)
