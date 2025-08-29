@@ -56,7 +56,7 @@ def quiz_game():
         print(q["question"])
         for options in q["options"]:
             print(options)
-        ans = input("enter your answer:").strip().lower()
+        ans = input("enter your answer:a/b/c/d").strip().lower()
 
         if ans == q["answer"]:
             print("correct✅\n")
