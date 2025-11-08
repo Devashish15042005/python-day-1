@@ -4,7 +4,7 @@ class BankAccount:
         self.balance = balance
     def deposite(self,amount):
         self.balance += amount
-        print(f"{self.account_name} :Deposite : {amount} New Balance: {self.balance}")
+        print(f"{self.account_name} : Deposite : {amount} New Balance: {self.balance}")
         return self
     def withdraw(self,amount):
         self.balance -= amount
