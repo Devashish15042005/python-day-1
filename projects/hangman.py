@@ -13,7 +13,7 @@ hints = {
     "football": ["Played with feet ⚽", "11 players each side", "Goal to win"],
     "cricket": ["Bat and ball sport 🏏", "Played in India", "Has wickets"],
     "macdonald": ["Fast-food brand 🍔", "Yellow logo", "Burgers"],
-    "domino": ["Pizza brand 🍕", "Blue and red logo", "Delivery fast"],
+    "dominos": ["Pizza brand 🍕", "Blue and red logo", "Delivery fast"],
     "melon": ["A juicy fruit 🍉", "Green outside", "Red inside"],
     "bird": ["Can fly 🐦", "Has feathers", "Builds nests"]
 }
