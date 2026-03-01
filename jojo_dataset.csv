@@ -1,0 +1,154 @@
+ID,Character,Part,Role,Power_Type,Stand_Name,Stand_Type,Power,Speed,Range,Durability,Precision,Potential,Nationality,Alignment,Status
+1,Jonathan Joestar,Phantom Blood,JoJo,Hamon,None,None,8,7,1,9,6,5,British,Good,Dead
+2,Will A. Zeppeli,Phantom Blood,Ally,Hamon,None,None,7,6,1,7,7,5,Italian,Good,Dead
+3,Dire,Phantom Blood,Ally,Hamon,None,None,6,6,1,6,6,4,Unknown,Good,Dead
+4,Straizo,Phantom Blood,Villain,Hamon,None,None,7,6,1,7,6,5,Unknown,Evil,Dead
+5,Joseph Joestar,Battle Tendency,JoJo,Hamon,None,None,8,8,1,7,8,8,American,Good,Alive
+6,Caesar Zeppeli,Battle Tendency,Ally,Hamon,None,None,8,7,1,7,7,6,Italian,Good,Dead
+7,Lisa Lisa,Battle Tendency,Ally,Hamon,None,None,9,8,1,8,8,6,Italian,Good,Alive
+8,Kars,Battle Tendency,Villain,Other,None,None,10,9,3,10,8,6,Unknown,Evil,Alive
+9,Wamuu,Battle Tendency,Villain,Other,None,None,9,9,2,9,7,4,Unknown,Evil,Dead
+10,Esidisi,Battle Tendency,Villain,Other,None,None,8,7,2,8,6,4,Unknown,Evil,Dead
+11,Jotaro Kujo,Stardust Crusaders,JoJo,Stand,Star Platinum,Close-range,10,10,2,9,8,6,Japanese,Good,Alive
+12,Noriaki Kakyoin,Stardust Crusaders,Ally,Stand,Hierophant Green,Long-range,8,7,8,6,8,6,Japanese,Good,Dead
+13,Muhammad Avdol,Stardust Crusaders,Ally,Stand,Magician's Red,Long-range,8,7,6,7,7,5,Egyptian,Good,Dead
+14,Jean Pierre Polnareff,Stardust Crusaders,Ally,Stand,Silver Chariot,Close-range,8,9,2,6,7,6,French,Good,Alive
+15,Iggy,Stardust Crusaders,Ally,Stand,The Fool,Close-range,7,7,3,6,6,5,American,Good,Dead
+16,Dio Brando,Stardust Crusaders,Villain,Stand,The World,Close-range,10,9,2,9,7,6,British,Evil,Dead
+17,Vanilla Ice,Stardust Crusaders,Villain,Stand,Cream,Dimensional,9,8,3,8,6,4,Unknown,Evil,Dead
+18,Enya the Hag,Stardust Crusaders,Villain,Stand,Justice,Long-range,7,5,10,5,7,4,Unknown,Evil,Dead
+19,Hol Horse,Stardust Crusaders,Villain,Stand,Emperor,Long-range,7,6,10,5,6,5,American,Evil,Alive
+20,J. Geil,Stardust Crusaders,Villain,Stand,Hanged Man,Long-range,8,8,10,6,6,5,Unknown,Evil,Dead
+21,Daniel J. D'Arby,Stardust Crusaders,Villain,Stand,Osiris,Automatic,6,5,5,5,8,6,American,Evil,Dead
+22,Telence T. D'Arby,Stardust Crusaders,Villain,Stand,Atum,Automatic,7,6,5,6,8,6,American,Evil,Dead
+23,Pet Shop,Stardust Crusaders,Villain,Stand,Horus,Long-range,8,8,8,7,6,5,Unknown,Evil,Dead
+24,Oingo,Stardust Crusaders,Villain,Stand,Khnum,Automatic,5,5,1,5,6,5,Unknown,Evil,Alive
+25,Boingo,Stardust Crusaders,Villain,Stand,Tohth,Automatic,6,5,5,5,7,6,Unknown,Evil,Alive
+26,Mariah,Stardust Crusaders,Villain,Stand,Bastet,Automatic,6,5,3,5,6,5,Egyptian,Evil,Alive
+27,Anubis,Stardust Crusaders,Villain,Stand,Anubis,Close-range,8,9,2,7,7,6,Unknown,Evil,Sealed
+28,Gray Fly,Stardust Crusaders,Villain,Stand,Tower of Gray,Long-range,6,8,10,5,6,4,Unknown,Evil,Dead
+29,Rubber Soul,Stardust Crusaders,Villain,Stand,Yellow Temperance,Close-range,7,6,2,8,6,5,Unknown,Evil,Dead
+30,Devo the Cursed,Stardust Crusaders,Villain,Stand,Ebony Devil,Automatic,6,6,5,6,6,5,Unknown,Evil,Dead
+31,Nena,Stardust Crusaders,Villain,Stand,Empress,Automatic,6,5,1,5,6,5,Unknown,Evil,Dead
+32,ZZ,Stardust Crusaders,Villain,Stand,Wheel of Fortune,Automatic,7,7,5,7,6,5,Unknown,Evil,Dead
+33,Steely Dan,Stardust Crusaders,Villain,Stand,Lovers,Colony,6,7,10,5,7,6,Unknown,Evil,Dead
+34,Forever,Stardust Crusaders,Villain,Stand,Strength,Long-range,7,6,10,7,6,5,Unknown,Evil,Dead
+35,Midler,Stardust Crusaders,Villain,Stand,High Priestess,Long-range,8,7,10,7,6,6,Egyptian,Evil,Dead
+36,N'Doul,Stardust Crusaders,Villain,Stand,Geb,Long-range,8,8,10,6,7,6,Egyptian,Evil,Dead
+37,Alessi,Stardust Crusaders,Villain,Stand,Set,Automatic,6,6,5,5,6,5,Egyptian,Evil,Dead
+38,Cameo,Stardust Crusaders,Villain,Stand,Judgement,Automatic,7,6,5,6,6,5,Unknown,Evil,Dead
+39,Kenny G,Stardust Crusaders,Villain,Stand,Tenore Sax,Automatic,5,5,10,5,6,4,Unknown,Evil,Dead
+40,Josuke Higashikata,Diamond is Unbreakable,JoJo,Stand,Crazy Diamond,Close-range,9,8,2,9,7,7,Japanese,Good,Alive
+41,Koichi Hirose,Diamond is Unbreakable,Ally,Stand,Act 3,Close-range,7,6,3,6,8,9,Japanese,Good,Alive
+42,Okuyasu Nijimura,Diamond is Unbreakable,Ally,Stand,The Hand,Close-range,8,6,2,7,6,6,Japanese,Good,Alive
+43,Rohan Kishibe,Diamond is Unbreakable,Ally,Stand,Heaven's Door,Long-range,8,7,5,6,9,8,Japanese,Neutral,Alive
+44,Yoshikage Kira,Diamond is Unbreakable,Villain,Stand,Killer Queen,Close-range,9,8,2,8,7,6,Japanese,Evil,Dead
+45,Akira Otoishi,Diamond is Unbreakable,Villain,Stand,Red Hot Chili Pepper,Long-range,8,9,10,6,7,6,Japanese,Evil,Alive
+46,Shigekiyo Yangu,Diamond is Unbreakable,Ally,Stand,Harvest,Colony,6,6,10,5,6,7,Japanese,Good,Dead
+47,Yukako Yamagishi,Diamond is Unbreakable,Ally,Stand,Love Deluxe,Close-range,7,7,3,6,7,7,Japanese,Neutral,Alive
+48,Terunosuke Miyamoto,Diamond is Unbreakable,Villain,Stand,Enigma,Automatic,7,6,5,6,7,6,Japanese,Evil,Dead
+49,Tamami Kobayashi,Diamond is Unbreakable,Neutral,Stand,The Lock,Automatic,6,5,1,5,7,6,Japanese,Neutral,Alive
+50,Toshikazu Hazamada,Diamond is Unbreakable,Neutral,Stand,Surface,Close-range,6,6,2,6,6,6,Japanese,Neutral,Alive
+51,Aya Tsuji,Diamond is Unbreakable,Ally,Stand,Cinderella,Automatic,6,5,1,5,8,6,Japanese,Good,Dead
+52,Toyohiro Kanedaichi,Diamond is Unbreakable,Neutral,Stand,Super Fly,Automatic,7,5,10,8,6,4,Japanese,Neutral,Alive
+53,Masazo Kinoto,Diamond is Unbreakable,Villain,Stand,Cheap Trick,Automatic,7,6,1,5,7,6,Japanese,Evil,Dead
+54,Giorno Giovanna,Golden Wind,JoJo,Stand,Gold Experience,Close-range,9,8,3,8,8,10,Italian,Good,Alive
+55,Bruno Bucciarati,Golden Wind,Ally,Stand,Sticky Fingers,Close-range,8,7,2,7,7,6,Italian,Good,Dead
+56,Guido Mista,Golden Wind,Ally,Stand,Sex Pistols,Colony,7,8,6,6,7,6,Italian,Good,Alive
+57,Narancia Ghirga,Golden Wind,Ally,Stand,Aerosmith,Long-range,7,7,10,6,6,6,Italian,Good,Dead
+58,Leone Abbacchio,Golden Wind,Ally,Stand,Moody Blues,Automatic,7,6,5,6,7,5,Italian,Good,Dead
+59,Diavolo,Golden Wind,Villain,Stand,King Crimson,Close-range,10,9,2,8,7,5,Italian,Evil,Dead
+60,Risotto Nero,Golden Wind,Villain,Stand,Metallica,Close-range,9,8,5,7,7,6,Italian,Evil,Dead
+61,Prosciutto,Golden Wind,Villain,Stand,Grateful Dead,Automatic,7,6,10,6,6,5,Italian,Evil,Dead
+62,Pesci,Golden Wind,Villain,Stand,Beach Boy,Long-range,7,7,10,6,6,6,Italian,Evil,Dead
+63,Melone,Golden Wind,Villain,Stand,Baby Face,Automatic,8,6,10,6,7,7,Italian,Evil,Dead
+64,Ghiaccio,Golden Wind,Villain,Stand,White Album,Close-range,9,7,3,9,6,5,Italian,Evil,Dead
+65,Illuso,Golden Wind,Villain,Stand,Man in the Mirror,Dimensional,8,7,10,7,6,6,Italian,Evil,Dead
+66,Formaggio,Golden Wind,Villain,Stand,Little Feet,Close-range,7,7,2,6,6,6,Italian,Evil,Dead
+67,Sale,Golden Wind,Villain,Stand,Kraft Work,Automatic,7,6,5,7,6,5,Italian,Evil,Dead
+68,Zucchero,Golden Wind,Villain,Stand,Soft Machine,Close-range,7,6,3,6,6,5,Italian,Evil,Dead
+69,Carne,Golden Wind,Villain,Stand,Notorious B.I.G,Automatic,9,8,10,9,6,4,Italian,Evil,Dead
+70,Squalo,Golden Wind,Villain,Stand,Clash,Long-range,7,7,10,6,6,5,Italian,Evil,Dead
+71,Tiziano,Golden Wind,Villain,Stand,Talking Head,Automatic,6,6,5,5,6,6,Italian,Evil,Dead
+72,Jolyne Cujoh,Stone Ocean,JoJo,Stand,Stone Free,Close-range,8,8,3,7,8,9,American,Good,Dead
+73,Ermes Costello,Stone Ocean,Ally,Stand,Kiss,Close-range,7,7,2,6,6,7,American,Good,Dead
+74,Foo Fighters,Stone Ocean,Ally,Stand,Foo Fighters,Colony,7,7,5,6,6,6,Unknown,Good,Dead
+75,Weather Report,Stone Ocean,Ally,Stand,Weather Report,Long-range,9,8,10,7,7,8,American,Good,Dead
+76,Enrico Pucci,Stone Ocean,Villain,Stand,Made in Heaven,Long-range,10,10,10,7,6,4,Italian,Evil,Dead
+77,Lang Rangler,Stone Ocean,Villain,Stand,Jumpin Jack Flash,Automatic,7,7,10,6,6,6,American,Evil,Dead
+78,Viviano Westwood,Stone Ocean,Villain,Stand,Planet Waves,Long-range,8,7,10,7,6,5,American,Evil,Dead
+79,Guccio,Stone Ocean,Villain,Stand,Survivor,Automatic,6,6,10,5,6,5,American,Evil,Dead
+80,Miuccia Miuller,Stone Ocean,Villain,Stand,Jail House Lock,Automatic,7,6,5,6,7,6,Italian,Evil,Dead
+81,Rikiel,Stone Ocean,Villain,Stand,Sky High,Long-range,8,7,10,6,6,6,American,Evil,Dead
+82,Donatello Versus,Stone Ocean,Villain,Stand,Under World,Automatic,8,7,10,7,6,6,American,Evil,Dead
+83,Ungalo,Stone Ocean,Villain,Stand,Bohemian Rhapsody,Automatic,9,6,10,6,6,5,American,Evil,Dead
+84,Johnny Joestar,Steel Ball Run,JoJo,Spin,Tusk Act 4,Long-range,9,9,8,8,7,9,American,Good,Alive
+85,Gyro Zeppeli,Steel Ball Run,Ally,Spin,Ball Breaker,Long-range,8,8,8,7,7,7,Italian,Good,Dead
+86,Funny Valentine,Steel Ball Run,Villain,Stand,Dirty Deeds Done Dirt Cheap,Dimensional,9,7,10,8,6,8,American,Evil,Dead
+87,Diego Brando,Steel Ball Run,Villain,Stand,Scary Monsters,Close-range,9,9,3,8,7,7,British,Evil,Dead
+88,Hot Pants,Steel Ball Run,Ally,Stand,Cream Starter,Automatic,7,7,5,6,6,6,American,Neutral,Dead
+89,Mountain Tim,Steel Ball Run,Ally,Stand,Oh Lonesome Me,Long-range,7,7,10,6,6,6,American,Good,Dead
+90,Ringo Roadagain,Steel Ball Run,Villain,Stand,Mandom,Automatic,8,8,5,7,7,6,American,Evil,Dead
+91,Blackmore,Steel Ball Run,Villain,Stand,Catch the Rainbow,Long-range,8,8,10,7,6,6,American,Evil,Dead
+92,Wekapipo,Steel Ball Run,Neutral,Stand,Wrecking Ball,Long-range,7,7,8,7,6,6,Italian,Neutral,Dead
+93,Magenta Magenta,Steel Ball Run,Villain,Stand,20th Century Boy,Automatic,8,5,1,10,6,5,American,Evil,Alive
+94,Sandman,Steel Ball Run,Neutral,Stand,In a Silent Way,Long-range,8,8,10,7,6,6,Native American,Neutral,Dead
+95,Josuke Higashikata (Part 8),Jojolion,JoJo,Stand,Soft & Wet,Close-range,8,8,4,7,8,9,Japanese,Good,Alive
+96,Yasuho Hirose,Jojolion,Ally,Stand,Paisley Park,Automatic,6,6,10,5,8,8,Japanese,Good,Alive
+97,Rai Mamezuku,Jojolion,Ally,Stand,Doggy Style,Close-range,7,7,3,6,7,7,Japanese,Good,Dead
+98,Jobin Higashikata,Jojolion,Villain,Stand,Speed King,Close-range,8,7,3,7,6,6,Japanese,Evil,Dead
+99,Ojiro Sasame,Jojolion,Villain,Stand,Fun Fun Fun,Automatic,7,6,5,6,6,6,Japanese,Evil,Dead
+100,Tooru,Jojolion,Villain,Stand,Wonder of U,Automatic,10,8,10,9,7,6,Japanese,Evil,Dead
+101,Norisuke Higashikata IV,Jojolion,Ally,Stand,King Nothing,Tracking,7,6,8,6,7,7,Japanese,Good,Alive
+102,Tsurugi Higashikata,Jojolion,Ally,Stand,Paper Moon King,Illusion,6,6,7,5,7,8,Japanese,Good,Alive
+103,Kaato Higashikata,Jojolion,Neutral,Stand,Space Trucking,Storage,7,6,6,6,6,6,Japanese,Neutral,Alive
+104,Yoshikage Kira (Part 8),Jojolion,Ally,Stand,Killer Queen (Alt),Close-range,9,8,3,8,7,8,Japanese,Good,Dead
+105,Kei Nijimura,Jojolion,Ally,Stand,Born This Way,Automatic,8,7,10,7,6,6,Japanese,Good,Dead
+106,Aisho Dainenjiyama,Jojolion,Villain,Stand,Doobie Wah!,Automatic,7,7,10,6,6,5,Japanese,Evil,Dead
+107,Damo Tamaki,Jojolion,Villain,Stand,Vitamin C,Close-range,8,7,3,7,6,6,Japanese,Evil,Dead
+108,Yotsuyu Yagiyama,Jojolion,Villain,Stand,I Am a Rock,Automatic,7,6,10,6,6,5,Japanese,Evil,Dead
+109,Dolomite,Jojolion,Villain,Stand,Blue Hawaii,Automatic,8,7,10,6,6,6,Japanese,Evil,Dead
+110,Poor Tom,Jojolion,Villain,Stand,Ozon Baby,Automatic,8,7,10,6,6,6,Japanese,Evil,Dead
+111,Bruford,Phantom Blood,Villain,Stand,None,Hamon Opponent,8,8,2,8,5,6,British,Evil,Dead
+112,Tarkus,Phantom Blood,Villain,Stand,None,Hamon Opponent,9,9,2,9,5,5,British,Evil,Dead
+113,Wang Chan,Phantom Blood,Villain,Stand,None,None,7,6,3,6,4,4,Chinese,Evil,Dead
+114,Esidisi,Battle Tendency,Villain,Stand,None,Pillar Man,9,8,8,8,7,6,Unknown,Evil,Dead
+115,Wamuu,Battle Tendency,Villain,Stand,None,Pillar Man,9,9,8,9,7,7,Unknown,Evil,Dead
+116,Kars,Battle Tendency,Villain,Stand,None,Ultimate Lifeform,10,10,10,10,9,9,Unknown,Evil,Alive
+117,Rudol von Stroheim,Battle Tendency,Ally,None,None,Cyborg,8,7,4,8,6,6,German,Good,Dead
+118,Dire,Phantom Blood,Ally,Hamon,None,Hamon User,7,7,2,6,5,6,British,Good,Dead
+119,Straits,Phantom Blood,Villain,Hamon,None,Vampire,8,7,3,7,5,5,British,Evil,Dead
+120,Straizo,Battle Tendency,Villain,Hamon,None,Vampire,8,7,3,7,5,5,British,Evil,Dead
+121,Arabia Fats,Stardust Crusaders,Villain,Stand,Sun,Long-range,7,6,10,6,5,4,Unknown,Evil,Dead
+122,Midler,Stardust Crusaders,Villain,Stand,High Priestess,Close-range,8,7,4,7,6,6,Unknown,Evil,Dead
+123,N'Doul,Stardust Crusaders,Villain,Stand,Geb,Long-range,9,8,10,7,6,7,Egyptian,Evil,Dead
+124,Oingo,Stardust Crusaders,Villain,Stand,Khnum,Transformation,6,5,3,5,5,6,Egyptian,Evil,Alive
+125,Boingo,Stardust Crusaders,Villain,Stand,Thoth,Prediction,6,5,10,5,7,7,Egyptian,Evil,Alive
+126,Anubis (Chaka),Stardust Crusaders,Villain,Stand,Anubis,Possession,8,8,4,8,6,6,Egyptian,Evil,Dead
+127,Mariah,Stardust Crusaders,Villain,Stand,Bastet,Magnetism,7,6,10,6,6,6,Egyptian,Evil,Alive
+128,Alessi,Stardust Crusaders,Villain,Stand,Set,De-aging,7,6,10,6,6,5,Egyptian,Evil,Alive
+129,Kenny G,Stardust Crusaders,Villain,Stand,Tenore Sax,Illusion,6,5,10,5,6,5,Egyptian,Evil,Dead
+130,Vanilla Ice,Stardust Crusaders,Villain,Stand,Cream,Void,10,10,10,9,6,5,American,Evil,Dead
+131,Terunosuke Miyamoto,Diamond is Unbreakable,Villain,Stand,Enigma,Paper Trap,7,6,5,6,7,6,Japanese,Evil,Dead
+132,Tamami Kobayashi,Diamond is Unbreakable,Neutral,Stand,The Lock,Guilt,6,5,5,5,6,6,Japanese,Neutral,Alive
+133,Toshikazu Hazamada,Diamond is Unbreakable,Neutral,Stand,Surface,Doll Control,6,6,5,5,6,6,Japanese,Neutral,Alive
+134,Shigechi Yangu,Diamond is Unbreakable,Ally,Stand,Harvest,Colony,7,6,10,5,6,6,Japanese,Good,Dead
+135,Angelo Katagiri,Diamond is Unbreakable,Villain,Stand,Aqua Necklace,Water Control,8,7,10,6,6,5,Japanese,Evil,Dead
+136,Yuya Fungami,Diamond is Unbreakable,Neutral,Stand,Highway Star,Tracking,8,7,10,7,6,6,Japanese,Neutral,Alive
+137,Mikitaka Hazekura,Diamond is Unbreakable,Ally,Stand,None,Shapeshifting,6,5,6,5,7,7,Unknown,Good,Alive
+138,Secco,Golden Wind,Villain,Stand,Oasis,Close-range,9,8,3,8,6,6,Italian,Evil,Dead
+139,Chocolata,Golden Wind,Villain,Stand,Green Day,Automatic,9,7,10,7,6,5,Italian,Evil,Dead
+140,Polpo,Golden Wind,Villain,Stand,Black Sabbath,Long-range,8,7,10,7,6,5,Italian,Evil,Dead
+141,Leone Abbacchio,Golden Wind,Ally,Stand,Moody Blues,Replay,7,7,10,6,7,7,Italian,Good,Dead
+142,Narancia Ghirga,Golden Wind,Ally,Stand,Aerosmith,Long-range,8,8,5,7,6,6,Italian,Good,Dead
+143,Guido Mista,Golden Wind,Ally,Stand,Sex Pistols,Long-range,8,8,4,7,6,7,Italian,Good,Alive
+144,Trish Una,Golden Wind,Ally,Stand,Spice Girl,Close-range,8,7,3,7,6,7,Italian,Good,Alive
+145,Bruno Bucciarati,Golden Wind,Ally,Stand,Sticky Fingers,Close-range,9,9,3,8,8,9,Italian,Good,Dead
+146,Koichi Hirose,Diamond is Unbreakable,Ally,Stand,Echoes Act 3,Close-range,7,7,4,6,8,8,Japanese,Good,Alive
+147,Rohan Kishibe,Diamond is Unbreakable,Ally,Stand,Heaven's Door,Close-range,8,7,5,6,9,9,Japanese,Good,Alive
+148,Okuyasu Nijimura,Diamond is Unbreakable,Ally,Stand,The Hand,Close-range,9,9,4,8,5,6,Japanese,Good,Alive
+149,Josuke Higashikata (Part 4),Diamond is Unbreakable,JoJo,Stand,Crazy Diamond,Close-range,9,8,4,8,7,9,Japanese,Good,Alive
+150,Giorno Giovanna,Golden Wind,JoJo,Stand,Gold Experience Requiem,Close-range,10,10,10,10,10,10,Italian,Good,Alive
+150,Giorno Giovanna,Golden Wind,JoJo,Stand,Gold Experience Requiem,Close-range,10,10,10,10,10,10,Italian,Good,Alive
+150,Giorno Giovanna,Golden Wind,JoJo,Stand,Gold Experience Requiem,Close-range,10,10,10,10,10,10,Italian,Good,Alive
+150,Giorno Giovanna,Golden Wind,JoJo,Stand,Gold Experience Requiem,Close-range,10,10,10,10,10,10,Italian,Good,Alive
